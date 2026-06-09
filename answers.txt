@@ -1,0 +1,22 @@
+
+Q1: Why might we consider using Git?
+
+Answer: Git is useful because it lets you keep track of changes made to a project over time. 
+It also makes it easier for multiple people to work on the same project, compare changes, and go back to an earlier version if a mistake is made. 
+This helps keep projects organized and makes collaboration much smoother.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used in a wide range of fields, such as healthcare, finance, education, and sports. 
+For example, in healthcare, doctors and researchers can use data science to analyze patient information and identify patterns 
+that may help detect diseases earlier and improve treatment plans.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches by creating a merge commit and preserving the complete history of both branches, 
+while rebasing moves a branch's commits onto another branch to create a cleaner, more linear history by rewriting the commit history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester, I’m looking forward to learning more about data science and improving my coding skills. 
+I’m excited to gain a deeper understanding of how data can be used to solve problems and to become more confident working with different programming concepts and tools.
